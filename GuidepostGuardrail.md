@@ -2,4 +2,17 @@
 - Guidepost Maintenance, 2241 Maintenance, 2242 Replacement
 - Begining and end and number of posts in between
 - How do you split your time
-- 
+- Consolidate single work op code to everything
+- However many you touched
+- Traffic Barrier
+- Cable Barrier (inventoried), Inspection and Repair, per run, anchor to anchor
+- Guardrail (inventoried), Inspection and Repair, per run, anchor to anchor
+- CPDM will fund raising the height of guardrail if a paving project lowers the rail height to below 26"
+- Execs don't want condition assessments completed due to a lack of program mgt/funding sources
+- *Temp form, possibly?  Followup
+- Vehicle penetrating barrier guardrail, resides in K3, known/unknown, 
+- Guardrail end terminals, specific model/make etc
+- If there is a repair, some help text to say validate inventory etc. update attributes
+- K jobs and HATS need to communicate
+- Concrete Barrier, work units only, linear feet of work done, failure mode, 
+- Impact attenuators, repair basic form, inspection, do we need impact attenuator form
