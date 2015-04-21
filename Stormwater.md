@@ -16,11 +16,10 @@
 
 
 - Create the following:
-- Ditch Maintenance, 1311 Maintenance/Repair, Linear, CuYd
-- Channel Maintenance, 1329 Maintenance/Repair, Linear, CuYd
-- Slope Maintenance, 1211 Slope Maintenace/Repair/Slide Cleanup, Linear Event, By Each, CuYd
+- Ditch Maintenance, 1311 Maintenance/Repair, Linear, CuYd of material removed.
+- Channel Maintenance, 1329 Maintenance/Repair, Linear, CuYd CuYd of material removed.
+- Slope Maintenance, 1211 Slope Maintenace/Repair/Slide Cleanup, Linear Event, By Each, CuYd of material removed.
 - *Shoulder Maintenance, 1212 Shoulder Washout/Repair
 - Rip Rap and Cribbing Repair, 1213 Rip Rap and Cribbing Repair, CuYd
 - *Slide/Rock Debris Containment
 - *Jersey Barrier Scupper Clean
-- 
