@@ -6,4 +6,7 @@
 - Number installed
 - Work with Lowell McBee
 - Build inventory first, inspect/repair as you go
+- We will never have an accurate inventory; due to systems additions issues
+- Followup with RPM crews and pavement marking crews, discuss inventory based 
+- TSMS itegration
 - 
