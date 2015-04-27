@@ -22,4 +22,6 @@
 - *Shoulder Maintenance, 1212 Shoulder Washout/Repair
 - Rip Rap and Cribbing Repair, 1213 Rip Rap and Cribbing Repair, CuYd
 - *Slide/Rock Debris Containment
+- <b>Rockfall Containment, 1214 Installation, Linear Event, Type of barrier installed (Concrete, Gabion Basket, Rock Screen)
+- <b>Rockfall Containment, 1214 Repair, Linear Event, 
 - *Jersey Barrier Scupper Clean
