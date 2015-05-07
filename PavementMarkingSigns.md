@@ -8,5 +8,12 @@
 - Build inventory first, inspect/repair as you go
 - We will never have an accurate inventory; due to systems additions issues
 - Followup with RPM crews and pavement marking crews, discuss inventory based 
-- TSMS itegration
-- 
+- TSMS integration
+- # of RPMS maintained MP to MP
+- Regions can then import into their database
+- At least a place to note, color, direction etc.
+- Look up the following 
+- Pavement Markings
+- By lane
+- Attribute, square feet
+- By marking,
