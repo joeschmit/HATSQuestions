@@ -1,0 +1,14 @@
+# HATSQuestions
+- Finish form builder for web
+- Questions/answers from questions/answers for web/mobile
+- Offline ortho
+- SRMP data on popover identify
+- Ability to measure lengths after two or more points are collected
+- Updated symbology
+- AVL basemap for HATS offline basemap
+- Symbology or indicator in the identify popover if a feature has an open pending activity
+- All syncing web/device etc.
+- Time/date based features, features without an activity symbology changes
+- Dashboard for HATS mobile/web
+- Added feature types, mowing IVM etc.
+-
