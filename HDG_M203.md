@@ -1,8 +1,8 @@
 # HATSQuestions for M203
 <====3A1 Litter====><br>
-*Bag Pickup <br>
-**Bag Pickup and Disposal <br>
-*Homeless Camp Cleanup <br>
+*Bag Pickup Feature<br>
+**Bag Pickup and Disposal - Unit question<br>
+*Homeless Camps<br>
 **Monitoring <br>
 **Posting Notification <br>
 **Site Cleanup <br>
@@ -12,11 +12,11 @@
 -What is the purpose of HATS [Harold]<br>
 
 <====3A2 Noxious Weed Control====> <br>
-*Weed Survey <br>
-**Monitoring <br>
-*Priority Infestation <br>
+*Weed Survey points or series<br>
+**Monitoring - Activity<br>
+*Priority Noxious Weed<br>
 **IVM Treatment <br>
-*Multi-Species Control <br>
+*Multi-Species Noxious Weed <br>
 **IVM Treatment <br>
 
 -If we see a new weed stop record the location of it and some information<br>
@@ -29,11 +29,12 @@
 -Grab the IVM plan and know what today's tasks would be <br>
 -Priority Infestation will be a polygon feature <br>
 
-<====3A3 Nuisance Weed Control====> <br>
-*Priority Infestation <br>
+<====3A3 Nuisance Weed Control====><br>
+*Priority Nuisance Weed - Polygon <br>
 **IVM Treament <br>
 
 <====3A4 Control of Veg. Obstructions====> <br>
+Talk with Ray Thursday
 *Zone 1 Bareground<br>
 **Herbicide Application<br>
 *Tree and Brush Control<br>
