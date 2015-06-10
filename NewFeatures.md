@@ -1,9 +1,10 @@
 # HATSQuestions
 Josh please add the following new features to HATS:
 
-- Please add the following choices to "Location":
+Please add the following choices to "Location":
 - Mainline, Collector Distributor, Couplet, Alt Route, Temp Route, Frontage, Turnback, Left Shoulder, Right Shoulder, Ferry Terminal, Wye Connection
 
+Add "County" list as an option for HATS records (not required)
 
 Please add the following attributes to:
 Pavement Markings
