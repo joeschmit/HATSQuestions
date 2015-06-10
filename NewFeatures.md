@@ -1,5 +1,10 @@
 # HATSQuestions
+
 Josh please add the following new features to HATS:
+-Homeless Camps (points), Notes attribute
+-Nuisance Vegetation (points)
+-Noxious Vegetation (points)
+-Zone 1 
 
 Please add the following choices to "Location":
 - Mainline, Collector Distributor, Couplet, Alt Route, Temp Route, Frontage, Turnback, Left Shoulder, Right Shoulder, Ferry Terminal, Wye Connection
